@@ -14,7 +14,11 @@ for(int i=0; i<=100;i++) {
 System.out.println("Hi Saima and Farzeen ,I add some code .");
 System.out.println("Hi this is shahin");
 
-
+int c =100;
+for(int i=1;i<=100;i++) {
+System.out.println("Odd numbers is : "+i);
+i++;
+}
 
 	}
 
