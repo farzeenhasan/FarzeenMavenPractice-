@@ -20,7 +20,17 @@ System.out.println("Hi Saima and Farzeen ,I add some code .");
 System.out.println("Hi this is shahin");
 
 
+
 System.out.println("Shahin are you sovel the problem");
+
+int c =100;
+for(int i=1;i<=100;i++) {
+System.out.println("Odd numbers is : "+i);
+
+i++;
+}
+
+System.out.println("Saima project checkout plase");
 	}
 
 }
